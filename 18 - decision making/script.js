@@ -10,3 +10,18 @@ if( age >= 15){
     console.log(`Sarah is too young , wait another ${yearsLeft} years:)`);
     alert(`Sarah is too young , wait another ${yearsLeft} years:)`);
   }
+
+
+
+  const birthYear = 2012;
+  let century;
+  if(birthYear <= 2000){
+    century = 20;
+  }
+
+  else{
+  century = 21;
+  }
+  alert(century);
+  
+

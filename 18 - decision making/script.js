@@ -3,4 +3,5 @@ const isOldEnough = age >= 18;
 
 if(isOldEnough){
   console.log('Sara Can start driving license 🚗');
+  alert('Sara Can start driving license 🚗');
 }
